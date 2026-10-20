@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://akikawasaki21.github.io/MI9Website2ndTry-site/sitemap.xml

@@ -1,0 +1,1 @@
+import{j as o}from"./jsx-runtime-dWqFTGUD.js";import{S as t,p as a}from"./StoreList-DgfTiR82.js";import{u as c,a as i}from"./Cut-a_QI_fSG.js";function p({tab:s}){const e=c(),r=i().store;return o.jsx("section",{className:"store-shelf","aria-label":r.shelf[s],children:o.jsx(t,{projects:a(s,e)})})}export{p as S};
